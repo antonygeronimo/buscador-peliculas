@@ -16,7 +16,7 @@
 
 ## 🖼️ Vista previa
 
-![preview](https://user-images.githubusercontent.com/0000000/preview.png)
+![preview](C:\Users\Usuario\Pictures\Screenshots\imagen_buscador-peli.png)
 
 > *(Puedes subir una captura a GitHub y reemplazar el link de la imagen.)*
 
