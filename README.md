@@ -16,7 +16,8 @@
 
 ## 🖼️ Vista previa
 
-![Vista previa](./preview.png)
+
+![preview](https://github.com/user-attachments/assets/36150874-6a01-4feb-9cc1-056dcbad3aa9)
 
 
 > *(Puedes subir una captura a GitHub y reemplazar el link de la imagen.)*
