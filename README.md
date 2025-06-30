@@ -16,8 +16,8 @@
 
 ## 🖼️ Vista previa
 
-![preview](![Uploading imagen_buscador-peli.png…]()
-)
+![Vista previa](./imagen_buscador-peli.png)
+
 
 > *(Puedes subir una captura a GitHub y reemplazar el link de la imagen.)*
 
