@@ -3,6 +3,11 @@
 > Aplicación web desarrollada con **React** que permite buscar películas usando la API de OMDb, ver los resultados con sus pósters y años de estreno, y agregar tus favoritas a una lista que se guarda con `localStorage`.
 
 ---
+## 🔗 Probar la aplicación
+
+Puedes ver la app en vivo aquí 👉 [CineFinder en Netlify](https://dulcet-cendol-0f897d.netlify.app/)
+
+---
 
 ## 🌟 Características
 
