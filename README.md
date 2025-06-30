@@ -16,7 +16,8 @@
 
 ## 🖼️ Vista previa
 
-![preview](C:\Users\Usuario\Pictures\Screenshots\imagen_buscador-peli.png)
+![preview](![Uploading imagen_buscador-peli.png…]()
+)
 
 > *(Puedes subir una captura a GitHub y reemplazar el link de la imagen.)*
 
